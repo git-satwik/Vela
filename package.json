@@ -1,0 +1,20 @@
+{
+  "name": "vela-relayer",
+  "version": "1.0.0",
+  "private": true,
+  "main": "relay.js",
+  "scripts": {
+    "start": "node relay.js",
+    "dev": "nodemon relay.js"
+  },
+  "dependencies": {
+    "@semaphore-protocol/core": "^4.4.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.2",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}

@@ -1,0 +1,2 @@
+# Circuit artifacts (semaphore-12.wasm, semaphore-12.zkey) are gitignored.
+# Fetch them locally per the README before running the frontend.
